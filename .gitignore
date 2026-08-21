@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Agent files
+AGENTS.md
+CLAUDE.md
+# Or ignore an entire agent directory if you have one:
+# agent/
+# .agent/
