@@ -46,3 +46,6 @@ CLAUDE.md
 # Or ignore an entire agent directory if you have one:
 # agent/
 # .agent/
+# Local env files
+.env*.local
+.env
